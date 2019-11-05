@@ -1,0 +1,89 @@
+PWM驱动
+https://item.taobao.com/item.htm?spm=a230r.1.14.49.4f6833d3JhXxlL&id=528592647278&ns=1&abbucket=14#detail
+https://wenku.baidu.com/view/716e74b81a37f111f1855b06.html
+http://forum.eepw.com.cn/thread/273547/1
+https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-9539895920.40.46e55e7fwTydaD&id=605505347268
+***** https://item.taobao.com/item.htm?spm=a230r.1.14.231.3d8433d3WqRech&id=604056302135&ns=1&abbucket=14#detail
+https://item.taobao.com/item.htm?spm=a230r.1.14.37.3c85186dou7rn6&id=559209009022&ns=1&abbucket=14#detail
+https://item.taobao.com/item.htm?spm=a230r.1.14.1.261071beEDjseP&id=558189761088&ns=1&abbucket=14#detail
+* https://detail.tmall.com/item.htm?spm=a230r.1.14.23.604d48f0QWCaBl&id=535354446438&ns=1&abbucket=14
+*带壳 大功率MOS管场效应管触发开关驱动板PWM调节电子开关控制板模块*： 
+https://detail.tmall.com/item.htm?spm=a230r.1.14.23.604d48f0QWCaBl&id=535354446438&ns=1&abbucket=14&skuId=4285504283885
+
+PWM转电压模块
+
+485-》PWM驱动输出
+https://item.taobao.com/item.htm?spm=a230r.1.14.201.3d8433d3WqRech&id=597068158184&ns=1&abbucket=14#detail
+
+
+频率
+https://zhidao.baidu.com/question/366195795850330172.html
+https://item.taobao.com/item.htm?spm=a230r.1.14.198.4f6833d3JhXxlL&id=553776091308&ns=1&abbucket=14#detail
+
+
+水泵
+https://china.guidechem.com/trade/pdetail15043990.html
+
+
+高速信号隔离放大3MHZ  
+接光栅尺DST-1R2P-H全兼容 PLC脉冲转换器 TTL转HTL信号5v转24v  （接光栅尺）
+https://item.taobao.com/item.htm?spm=a230r.1.14.205.6d115363KIE85q&id=569433845369&ns=1&abbucket=14#detail
+https://item.taobao.com/item.htm?spm=a230r.1.14.15.556522b3DqvXAp&id=582434080267&ns=1&abbucket=14#detail
+
+模拟量控制PWM功率输出
+https://item.taobao.com/item.htm?spm=a230r.1.14.125.3b0654413GLz3t&id=527010245476&ns=1&abbucket=14#detail
+https://item.taobao.com/item.htm?spm=a230r.1.14.170.3b0654413GLz3t&id=579939086419&ns=1&abbucket=14#detail
+***** https://item.taobao.com/item.htm?spm=a230r.1.14.16.35d6317fcnhfOo&id=527442014208&ns=1&abbucket=14#detail
+（DC24V直流调速器 0-10V控制调速PWM调速）
+https://item.taobao.com/item.htm?spm=a230r.1.14.7.7faf7cccFH4fZ5&id=9731156338&ns=1&abbucket=14#detail
+https://detail.tmall.com/item.htm?spm=a230r.1.14.225.73233625KahQK7&id=602779177837&ns=1&abbucket=14
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.18.7de8509fVD43au&id=601477364942&ns=1&abbucket=14#detail
+
+网络HUB TP_LINK
+https://detail.tmall.com/item.htm?id=35226650833&ali_refid=a3_430583_1006:1106936270:N:dCjlX0o2DDfe0hKbmEYTJ/J+6fmQzLBh:af9b5e05cc844182e8ffa66b69467ddd&ali_trackid=1_af9b5e05cc844182e8ffa66b69467ddd&spm=a230r.1.14.1&skuId=4104171022512
+
+
+STEP 7-Micro/WIN SMART  6ES7288-8SW01-0AA0
+https://item.taobao.com/item.htm?spm=a230r.1.14.6.34082503PNNZlV&id=605049793352&ns=1&abbucket=14#detail
+S7-200 SMART CPU ST20  6ES7288-1ST20-0AA0
+https://detail.tmall.com/item.htm?spm=a230r.1.14.16.31be7b0eE7UK1b&id=43369855380&ns=1&abbucket=14
+
+西门子PLC类产品
+https://pufeidejiaju.tmall.com/category-903275091-1626384361.htm?spm=a220o.1000855.w4010-22102464227.28.118b5701Y7Djhv&search=y&parentCatId=900731823&parentCatName=%CE%F7%C3%C5%D7%D3&parentCatPageId=1626384361&catName=PLC%BF%C9%B1%E0%B3%CC%BF%D8%D6%C6%C6%F7#bd
+
+S7-200 SMART CPU ST20 + EM AM03 (12DI+8DO+2AI+1AO) + S7-200 SMART 扩展电缆 + STEP 7-Micro/WIN SMART + SB RS485/RS232
+ + 
+V2.3 CPU + Drives V90（PC 工具）软件 + 网络总线连接器（带编程端口连接器），垂直电缆出口  + RS485 总线连接器（带 35° 电缆出口，带编程端口连接器）
+ + 
+RS485 总线连接器（带 35° 电缆出口，不带编程端口连接器） 6ES7972-0BA42-0XA0
+
+
+
+
+S7-200 SMART CPU ST20  6ES7288-1ST20-0AA0
+S7-200 SMART 扩展电缆 6ES7288-6EC01-0AA0
+SB RS485/RS232  信号板 6ES7288-5CM01-0AA0
+EM AM03  6ES7288-3AM03-0AA0
+STEP 7-Micro/WIN SMART  6ES7288-8SW01-0AA0
+Drives V90（PC 工具）软件  可从 Siemens 服务和支持网站下载
+网络总线连接器（带编程端口连接器），垂直电缆出口  6ES7972-0BB12-0XA0
+RS485 总线连接器（带 35° 电缆出口，带编程端口连接器） 6ES7972-0BB42-0XA0
+RS485 总线连接器（带 35° 电缆出口，不带编程端口连接器） 6ES7972-0BA42-0XA0
+SMART LINE 1000 IE  6AV6648-0CE11-3AX0
+
+S7-200 SMART  系统手册, V2.3, 07/2017, A5E03822234-AF
+
+
+16串口服务器
+https://detail.tmall.com/item.htm?spm=a230r.1.14.60.608c9788Tzczyl&id=601438455991&ns=1&abbucket=8
+https://detail.tmall.com/item.htm?spm=a230r.1.14.18.608c9788Tzczyl&id=521322453110&ns=1&abbucket=8
+http://www.gzyoutong.com/serialserver/107-227.html
+https://item.taobao.com/item.htm?spm=a230r.1.14.47.65db276ebnXCfd&id=589258670236&ns=1&abbucket=8#detail
+http://www.digatto.com.cn/16kfwq.html
+https://detail.tmall.com/item.htm?spm=a230r.1.14.11.608c9788Tzczyl&id=552133344994&ns=1&abbucket=8
+https://item.taobao.com/item.htm?spm=a210c.1.0.0.52681debW0cJ66&id=545187966439
+https://item.taobao.com/item.htm?spm=a230r.1.14.123.608c9788Tzczyl&id=524853650001&ns=1&abbucket=8#detail
+
+24v电源导轨
+https://detail.tmall.com/item.htm?spm=a230r.1.14.15.734563c1ba1qFs&id=547727234394&ns=1&abbucket=8
