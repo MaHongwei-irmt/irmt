@@ -133,6 +133,11 @@ https://detail.tmall.com/item.htm?spm=a230r.1.14.41.574e6d8cJoFhSB&id=5501163310
 铁线槽
 https://detail.tmall.com/item.htm?spm=a230r.1.14.6.77d74715fz3MwG&id=535852664865&cm_id=140105335569ed55e27b&abbucket=8
 https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.56.3e163034Tm8eQv&id=543817096890&areaId=310100&user_id=2938542295&cat_id=2&is_b=1&rn=6173ae856377022ac6a9b0cae88298df
+https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.16.1cc63e0evAeS5B&id=587538049876&skuId=3997370360865&areaId=310100&user_id=2452048927&cat_id=2&is_b=1&rn=f56bc88ee229704543fb98bb5772fc80
+https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.21.6adb3c74ExqqjD&id=528586821786&areaId=310100&user_id=1890655857&cat_id=2&is_b=1&rn=e5724dd9182474d71ff9c638fc0f0ae9
+
+
+
 
 
 金属电线挂钩
@@ -160,13 +165,27 @@ https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.21.5a9be679HESpW7&id
 https://detail.tmall.com/item.htm?spm=a230r.1.14.13.1e4a2e98p9XUmF&id=589038261241&cm_id=140105335569ed55e27b&abbucket=8&skuId=4249669224980
 
 
+温度传感器
+https://item.taobao.com/item.htm?spm=a230r.1.14.16.3fb93d5duZ1dLw&id=553907701018&ns=1&abbucket=8#detail
+
+继电器
+https://item.taobao.com/item.htm?spm=a230r.1.14.32.2b9153efQLWX6b&id=598185837078&ns=1&abbucket=8#detail
+
+制冷片
+https://detail.tmall.com/item.htm?spm=a230r.1.14.20.6a9d31e5JufOx9&id=550919589434&ns=1&abbucket=8
+
+
+
 还需采购
 插座  6只
 铁线槽
 金属电线挂钩
 防爆电源连接器
+温度传感器
+继电器
+制冷片
 
-PLC DODI驱动模块
+
 
 EM 16 点数字量输入/16 点继电器输出 (EM DR32) 6ES7288-2DR32-0AA0
 https://detail.tmall.com/item.htm?spm=a220m.1000858.1000725.25.4c4f64eeO7X8pJ&id=553015414212&skuId=4079081062315&areaId=310100&user_id=1706365930&cat_id=2&is_b=1&rn=33a2f403136f83bfe37bd94ecf292045
